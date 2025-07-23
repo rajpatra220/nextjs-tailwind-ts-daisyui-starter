@@ -32,20 +32,20 @@ export default function Sidebar() {
     <>
     <ul className="menu w-full px-4 py-0">
         <li className="menu-title">Menu Title</li>
-        {renderMenuItems(menuItems)}
+        {RenderMenuItems(menuItems)}
     </ul>
     </>
   );
 }
 
-const renderMenuItems = (items: MenuItem[]) => {
+const RenderMenuItems = (items: MenuItem[]) => {
     const pathname = usePathname();
   return items.map((item, index) => (
     <li key={index}>
       {item.subItems ? (
         <details open>
           <summary>{item.label}</summary>
-          <ul>{renderMenuItems(item.subItems)}</ul>
+          <ul>{RenderMenuItems(item.subItems)}</ul>
         </details>
       ) : (
         <Link href={(item.link !== undefined) ? item.link : "#"} className={`menu-link ${pathname === item.link ? 'menu-active' : ''}`}>
