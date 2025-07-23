@@ -23,12 +23,16 @@ A minimal starter for building modern web applications using:
 
 Provides a clean slate with all base configurations ready to go.
 
+Checkout the [**Demo**](https://nextjs-tailwind-ts-daisyui-starter.vercel.app/).
+
 ---
 
 ### 2. **Starter Plus**
 Includes everything from the **Starter**, plus:
 - 🌙 **Theme Switcher**: Toggle between daisyUI themes
 - 🧭 **Navbar and Footer** components: A simple layout to get you started with basic navigation and structure
+
+Checkout the [**Demo**](https://nextjs-tailwind-ts-daisyui-starter.vercel.app/starterplus/).
 
 ---
 
@@ -40,6 +44,8 @@ Designed specifically for admin dashboards. It builds on **Starter Plus** and ad
 - 🌙 **Theme Switcher**
 
 All components are modular and fully customizable.
+
+Checkout the [**Demo**](https://nextjs-tailwind-ts-daisyui-starter.vercel.app/adminstarter/).
 
 ---
 
