@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Next.js + Tailwind CSS + TypeScript + daisyUI Starter",
+  description: "A starter for building modern web applications using Next.js, Tailwind CSS, TypeScript and daisyUI.",
 };
 
 export default function RootLayout({
