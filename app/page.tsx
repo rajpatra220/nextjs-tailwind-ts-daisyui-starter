@@ -87,7 +87,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="flex justify-around my-5">
-            <div className="btn btn-sm btn-primary font-bold rounded">
+            <div className="btn btn-sm btn-primary font-bold">
               <Link href="https://github.com/rajpatra220/nextjs-tailwind-ts-daisyui-starter" target="_blank" className="flex gap-2 items-center" aria-label="Source Code">
                 <svg className="size-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g clipPath="url(#clip0_229_292)">

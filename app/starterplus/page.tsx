@@ -32,7 +32,7 @@ export default function Home() {
               <li className="p-4 pb-2 text-xs opacity-80 tracking-wide">Check out the different layouts for more features.</li>
               
               <li className="list-row">
-                <div className="text-4xl font-thin opacity-30 tabular-nums">01</div>
+                <div className="text-4xl font-thin opacity-50 tabular-nums">01</div>
                 <div className="list-col-grow">
                   <div className="font-bold"><Link href="/" className="hover:underline">Starter</Link></div>
                   <div className="text-xs font-semibold opacity-60">A perfect base for your application</div>
@@ -50,7 +50,7 @@ export default function Home() {
               </li>
               
               <li className="list-row">
-                <div className="text-4xl font-thin opacity-30 tabular-nums">02</div>
+                <div className="text-4xl font-thin opacity-50 tabular-nums">02</div>
                 <div className="list-col-grow">
                   <div className="font-bold flex items-center"><Link href="/starterplus" className="hover:underline">Starter Plus</Link>
                   <span className="ms-2 badge badge-xs badge-primary">Current</span></div>
@@ -69,7 +69,7 @@ export default function Home() {
               </li>
               
               <li className="list-row">
-                <div className="text-4xl font-thin opacity-30 tabular-nums">03</div>
+                <div className="text-4xl font-thin opacity-50 tabular-nums">03</div>
                 <div className="list-col-grow">
                   <div className="font-bold"><Link href="/adminstarter" className="hover:underline">Admin Starter</Link></div>
                   <div className="text-xs font-semibold opacity-60">Includes Sidebar, Navbar, Footer and Theme Switcher</div>
@@ -89,7 +89,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="flex justify-around mt-5">
-            <div className="btn btn-sm btn-primary font-bold rounded">
+            <div className="btn btn-sm btn-primary font-bold">
               <Link href="https://github.com/rajpatra220/nextjs-tailwind-ts-daisyui-starter" target="_blank" className="flex gap-2 items-center" aria-label="Source Code">
                 <svg className="size-6" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g clipPath="url(#clip0_229_292)">
