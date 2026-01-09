@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="footer sm:footer-horizontal footer-center bg-base-200 text-base-content p-4">
         <aside className="flex">
             <p>Made By</p>
-            <Link href="https://rajesh-patra-portfolio.vercel.app?ref=next-daisyui-starter" className="link font-semibold" target="_blank" aria-label="Rajesh Patra">
+            <Link href="https://rajeshpatra.com?ref=next-daisyui-starter" className="link font-semibold" target="_blank" aria-label="Rajesh Patra">
                 Rajesh Patra
             </Link>
         </aside>

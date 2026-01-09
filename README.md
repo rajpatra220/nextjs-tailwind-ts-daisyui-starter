@@ -6,7 +6,7 @@ This repository provides a starter with three pre-configured layouts to help you
 #
 
 <div align="center">
-  <p>Made by <a href="https://rajesh-patra-portfolio.vercel.app" target="_blank">Rajesh Patra</a></p>
+  <p>Made by <a href="https://rajeshpatra.com" target="_blank">Rajesh Patra</a></p>
   <p>Explore my portfolio for more projects!</p>
 </div>
 

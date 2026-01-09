@@ -105,7 +105,7 @@ export default function Home() {
           </div>
           <div className="flex gap-1 justify-center text-xs tracking-wide">
             <p>Made By </p>
-            <Link href="https://rajesh-patra-portfolio.vercel.app?ref=next-daisyui-starter" className="link font-semibold" target="_blank" aria-label="Rajesh Patra">
+            <Link href="https://rajeshpatra.com?ref=next-daisyui-starter" className="link font-semibold" target="_blank" aria-label="Rajesh Patra">
                 Rajesh Patra
             </Link>
           </div>
